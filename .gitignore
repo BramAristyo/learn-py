@@ -1,1 +1,15 @@
-/env
+env/
+venv/
+ENV/
+.env
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+dist/
+build/
+*.egg-info/
+
+.DS_Store
+Thumbs.db
